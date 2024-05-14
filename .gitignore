@@ -52,6 +52,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+yield_prediction/ml_model/random_forest_model.pkl
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
